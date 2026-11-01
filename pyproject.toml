@@ -1,0 +1,11 @@
+[project]
+name = "comfyui-prompt-variables"
+description = "Write a prompt once with [variables] and fill them by typing or from a spreadsheet (.xlsx, .csv, .tsv): one prompt per row."
+version = "0.1.0"
+readme = "README.md"
+dependencies = []
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Prompt Variables"
+Icon = ""
